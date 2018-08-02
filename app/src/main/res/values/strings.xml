@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Emergency Hazard Reporting</string>
+    <string name="severity_header">How bad is it?</string>
+    <string name="type_header">What is the nature of the emergency?</string>
+    <string name="fire">Fire</string>
+    <string name="flood">Flood</string>
+    <string name="sev_high">Real bad!</string>
+    <string name="sev_low">Not a big deal</string>
+    <string name="report">Submit</string>
+    <string name="select_severity">Please select a severity.</string>
+    <string name="select_type">Please select a type.</string>
+    <string name="location_failure"><b>Error</b>: Could not get your location. Please try again.</string>
+    <string name="report_post_in_progress">Submitting the report...</string>
+    <string name="report_error_network"><b>Error</b>: Could not connect to the report server.\nPlease try again.</string>
+    <string name="report_error_auth"><b>Error</b>: Not authorized to send reports.</string>
+    <string name="report_error_parse"><b>Error</b>: The server sent back bad information.</string>
+    <string name="report_error_server"><b>Error</b>: The server could not process your report.\nPlease try again.</string>
+    <string name="report_post_success"><b>Success</b>: The hazard has been reported!</string>
+
+    <string name="clear">Clear</string>
+    <string name="location_permission_request">Please allow us to access your location for accurate reporting.</string>
+    <string name="guid_key">GUID_KEY</string>
+</resources>
